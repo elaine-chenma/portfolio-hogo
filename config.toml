@@ -2,6 +2,10 @@ baseURL = "https://elaine-chenma.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-resume"
+publishDir = "elaine-chenma.github.io"
+[taxonomies]
+  tag="tags"
+  category="categories"
 
 
 [params]
@@ -48,4 +52,4 @@ theme = "hugo-resume"
 #     icon = "keybase"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    #trackerID = "XX-123446-01"

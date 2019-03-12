@@ -1,0 +1,34 @@
+
+[
+    {
+        "role":"Business Analyst, Practicum Project",
+        "company":"Autodesk",
+        "summary":["Retrieved and processed data from database (SQL)",
+          "Analyzed and visualized customer segments,providing support for business reporting with (Tableau)"
+          ,"Leveraged advanced analytics techniques and tools (predictive modeling/ machine learning and specialized visualization methods) to support sales and marketing teams"],
+        "range":"Oct. 2018 – Aug. 2019",
+        "description":"As part of the UC Davis MSBA program, working with this award-winning company that was recognized in Fast Company’s “Most Innovative Companies” for AI in 2018",
+        "location":"San Francisco, CA"
+    },
+    {
+        "role":"Senior Business Analyst",
+        "company":"Jiahui Health",
+        "summary":["Researched and reformulated procurement and finance processes across organization using Oracle ERP Implementation Methodology and Best Practice, improving efficiency by 20%",
+        "Established central customer database and integrated with customer engagement channels including SMS, email and WeChat, facilitating customer acquisition and retention. Visits increased by 30%",
+      "Built clustering model using K-means method in R to segment customers with patient demographics and visit histories. Designed A/B testing for verification. Click-through rates of email campaign increased by 80%",
+    "Managed group of six consultants and four developers to design CRM and mobile APP solutions for marketing department, and delivered solutions on schedule."
+        ],
+        "range":"Jul. 2016 – Aug. 2018",
+        "description":"Chinese startup, collaborating with MGH (Massachusetts General Hospital, Boston) to build an international- standard healthcare network",
+        "location":"Shanghai, China"
+    },
+    {
+        "role":"ERP Financial Consultant",
+        "company":"Hand Enterprise Solutions",
+        "summary":["Top-five Chinese Iron and Steel Company – Managed group of three consultants to analyze costing calculation process with Oracle Standard Industry Solution. Identified opportunities and implemented IT solutions. Product cost accuracy improved by 15%",
+        "Fortune Global 500 Company – Led user training and coached 20 users to perform User Acceptance Test in Australia for two months"],
+        "range":"February 2013 - March 2014",
+        "description":"HAND is the largest IT consulting firm in China, providing clients with one-stop IT solution",
+        "location":"Shanghai, China"
+    }
+]

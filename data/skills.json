@@ -1,0 +1,31 @@
+[
+  {
+      "grouping":"Database Management",
+      "skills":[ "MYSQL"]
+  },
+  {
+      "grouping":"Programming",
+      "skills":[ "Data Cleaning (Python:numpy,pandas; R:dplyr)",
+      "Web Scraping (Python:BeautifulSoup)"]
+  },
+
+  {
+      "grouping":"Visualization",
+      "skills":[ "Python (Matplotlib, Seaborn)","R(ggplot2)",
+      "Tableau","Kepler (Geo-data)"]
+  },
+  {
+      "grouping":"Cloud Computing",
+      "skills":[ "AWS ((EC2, S3, Lambda))", "AutoML"]
+  },
+  {
+    "grouping":"Machine Learning",
+      "skills":["Supervised Learning (Regression, Classification)",
+        "Unsupervised Learning (Clustering)"]
+  },
+  {
+    "grouping":"Growth Analytics",
+      "skills":["A/B Testing",
+        "AARRR Funnel","Cohort Analysis","Attrition Model"]
+  }
+]
