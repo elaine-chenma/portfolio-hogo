@@ -19,8 +19,9 @@ publishDir = "elaine-chenma.github.io"
     description = "Data enthusiast with cross-functional working experience and acumen product sense"
     favicon = "images/favicon.ico"
     # what sections
-    showSkills = true
+    #showSkills = true
     showProjects = true
+    showSkills = true
     #showOpenSource = true
     #showPublications = true
     showExperience = true
