@@ -5,10 +5,10 @@ I have rich cross-functional cooperation experience and sharp product sense, che
 
 I am **actively** seeking full-time position as:
 
+- Data Analyst
+
 - Product Analyst
 
 - Growth Analyst
-
-- Marketing Analyst
 
  Love to get connected through email or LinkedIn!
