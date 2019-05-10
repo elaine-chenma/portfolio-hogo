@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Database Management",
-      "skills":[ "MYSQL"]
+      "skills":[ "MYSQL","Hive","Oracle"]
   },
   {
       "grouping":"Programming",

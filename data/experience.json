@@ -1,25 +1,26 @@
 
 [
     {
-        "role":"Business Analyst, Practicum Project",
+        "role":"Data Analyst, Practicum Project",
         "company":"Autodesk",
         "summary":["Retrieved (SQL) and visualized (Tableau) user segments to substantiate its relationship with renewal",
-          "Designed metrics to measure usage stability. Segment users with usage patterns leveraging PCA and K-means clustering methods"
+          "Designed metrics to measure usage stability. Segment users and create customer personas with usage patterns leveraging PCA and K-means clustering methods"
           ],
         "range":"Oct. 2018 – Aug. 2019",
         "description":"As part of the UC Davis MSBA program, working with this award-winning company that was recognized in Fast Company’s “Most Innovative Companies” for AI in 2018",
         "location":"San Francisco, CA"
     },
     {
-        "role":"Senior Business Analyst",
+        "role":"Business Analyst",
         "company":"Jiahui Health",
-        "summary":["Researched and reformulated procurement and finance processes across organization using Oracle ERP Implementation Methodology and Best Practice, improving efficiency by 20%",
-        "Established central customer database and integrated with customer engagement channels including SMS, email and WeChat, facilitating customer acquisition and retention. Visits increased by 30%",
-      "Built clustering model using K-means method in R to segment customers with patient demographics and visit histories. Designed A/B testing for verification. Click-through rates of email campaign increased by 80%",
-    "Managed group of six consultants and four developers to design CRM and mobile APP solutions for marketing department, and delivered solutions on schedule."
+        "summary":["Collaborated with Business Intelligence and Engineering teams to build data pipelines, five dashboards and 30 reports, in support of reporting and analytics needs of finance, operation, marketing and BD teams",
+        "Performed descriptive analysis on revenue metrics with Oracle SQL to aid in five-year strategic planning",
+      "Forecasted consumable demand and automated procurement requests, improved inventory turnover by 17%",
+    "Managed a project team of six consultants and four developers. Established central customer database, integrated with customer engagement channels (SMS, email), facilitating customer acquisition and retention",
+"Clustered customers for targeted email campaign, using K-means method in R with patient demographics and visit histories. Designed A/B testing and verified an 80% boost in email click-through rates"
         ],
         "range":"Jul. 2016 – Aug. 2018",
-        "description":"Chinese startup, collaborating with MGH (Massachusetts General Hospital, Boston) to build an international- standard healthcare network",
+        "description":"Cooperated with external consulting team to implement integrated enterprise applications, and supported business operation with data analysis at the largest foreign-invested hospital in Shanghai, with a total investment of $500M",
         "location":"Shanghai, China"
     }
 
