@@ -4,9 +4,7 @@ sitemap:
   priority : 0.5
 weight: 10
 ---
-<p>See some fun <b>Machine Learning</b> projects I worked on in school at <a href="https://github.com/elaine-chenma"><b>Github</b>!</a> still miss those shiny days.
-
-Also let me know if you have any interesting project ideas to collaborate on, I'm definitely interested in working on some side projects in my spare time!
+<p>See some fun <b>Machine Learning</b> projects I worked on in school at <a href="https://github.com/elaine-chenma"><b>Github</b>!</a> Still miss those shiny days. Also let me know if you have any interesting project ideas to collaborate on, I'm definitely interested in working on some side projects in my spare time!
 
   <ul>
   <li><a href='https://github.com/elaine-chenma/Predicting_Customer_Churn#predicting_customer_churn'>Predicting Customer Churn</a></li>  
