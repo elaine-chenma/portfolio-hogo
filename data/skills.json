@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Database Management",
-      "skills":[ "MYSQL","Hive","Oracle"]
+      "skills":[ "MYSQL","Hive","Presto","Oracle"]
   },
   {
       "grouping":"Programming",
@@ -26,6 +26,6 @@
   {
     "grouping":"Growth Analytics",
       "skills":["A/B Testing",
-        "AARRR Funnel","Cohort Analysis","Attrition Model"]
+        "AARRR Funnel","Cohort Analysis","Attrition Model", "Retention Analysis"]
   }
 ]

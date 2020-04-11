@@ -9,11 +9,11 @@ publishDir = "elaine-chenma.github.io"
 
 
 [params]
-    firstName = "Chen (Elaine)"
+    firstName = "Chen"
     lastName = "MA"
     address = "San Francisco, CA"
     phone = "415(216)-6507"
-    contactNote = "Data Analyst"
+    contactNote = "Data Scientist"
     profileImage = "img/personal_pic.png"
     email = "elainemazju@gmail.com"
     description = "Data enthusiast with cross-functional working experience and acumen product sense"

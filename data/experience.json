@@ -1,13 +1,44 @@
 
 [
+  {
+      "role":"Data Scientist, Product Analytics",
+      "company":"Facebook",
+      "range":"Mar. 2020 till now",
+      "location":"Menlo Park, CA"
+  },
+
+  {
+      "role":"Senior Customer Analyst, Business Analytics",
+      "company":"NextRoll, Inc.",
+      "summary":["Built data pipelines and Tableau dashboards to track key business metrics",
+        "Advised on and implemented analyses framework on business initiatives around customer growth, conversion and retention for SMB",
+        "Applied statistical models to business use cases to build up understanding around customer behavior and forecast account spending"
+        ],
+      "range":"Sep. 2019 – Feb. 2020",
+      "description":"NextRoll is an SaaS company in ad-tech industry. I worked with cross-functional teams (Product, Engineering, Marketing) on data projects to measure product adoption and customer engagement.",
+      "location":"San Francisco, CA"
+  },
+
+  {
+      "role":"Product Analytics Intern, Web Analytics",
+      "company":"Redfin",
+      "summary":["Built data pipeline and Tableau dashboards to track key business metrics",
+        "Advised on and analyzed results of A/B testing"
+        ],
+      "range":"Jun. 2019 – Sep. 2019",
+      "description":"Redfin enables online self-serve home discovery and has field agents to back customers up. Working with Consumer team on traffic acquisition and user engagement, I analyzed web traffic and user clickstream data.",
+      "location":"San Francisco, CA"
+  },
+
     {
         "role":"Data Analyst, Practicum Project",
         "company":"Autodesk",
-        "summary":["Retrieved (SQL) and visualized (Tableau) user segments to substantiate its relationship with renewal",
-          "Designed metrics to measure usage stability. Segment users and create customer personas with usage patterns leveraging PCA and K-means clustering methods"
+        "summary":["Conducted diagnostic analysis by slicing data with Hive SQL and Tableau visualizations. Identified two main reasons why internal data product failed to predict churn",
+          "Segmented users with 80M behavioral records, leveraging PCA and K-means clustering in Python",
+          "Created six personas that enabled company to segment customers for improved customer service"
           ],
-        "range":"Oct. 2018 – Aug. 2019",
-        "description":"As part of the UC Davis MSBA program, working with this award-winning company that was recognized in Fast Company’s “Most Innovative Companies” for AI in 2018",
+        "range":"Oct. 2018 – Jul. 2019",
+        "description":"Autodesk is a software company transforming to SaaS model. As part of UC Davis MSBA program, we worked with cross-functional teams at Autodesk to understand user behavior on SaaS products and identify key factors to drive customer retention.",
         "location":"San Francisco, CA"
     },
     {
@@ -21,6 +52,13 @@
         ],
         "range":"Jul. 2016 – Aug. 2018",
         "description":"Cooperated with external consulting team to implement integrated enterprise applications, and supported business operation with data analysis at the largest foreign-invested hospital in Shanghai, with a total investment of $500M",
+        "location":"Shanghai, China"
+    },
+    {
+        "role":"Oracle Financial Consultant",
+        "company":"HAND Enterprise Solutions LTD.",
+        "description":["HAND is the largest IT consulting firm in China, providing clients with one-stop IT solution. I worked with clients to streamline financial processes with ERP and BI solutions."],
+        "range":"Jul. 2014 – May. 2016",
         "location":"Shanghai, China"
     }
 

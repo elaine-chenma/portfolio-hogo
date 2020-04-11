@@ -1,14 +1,12 @@
-**Hi! Really happy to see you!**
-I am a consulting professional and MSBA(M.S. in Business Analytics) candidate in San Francisco with **passion to communicate insights, get things done and make impacts through data analysis.**
+**Hi, thanks for visiting my personal website, nice to meet you!**
+I am a consulting professional and experienced data scientist in bay area with **passion to communicate insights, get things done and make impacts through data analysis.**
 
-I have rich cross-functional cooperation experience and sharp product sense, check out **[MY RESUME](https://drive.google.com/file/d/13FgWGMmgdqMHjxgnQVRsNdWbBjUQVTRP/view?usp=sharing)** here.
+My personal interests reside in building better customer/business-facing products with data informed strategy and operation, and empowering business teams with accessible and actionable data insights.
 
-I am **actively** seeking full-time position as:
-
-- Data Analyst
-
-- Product Analyst
-
-- Growth Analyst
+Highlights of my core competencies:
+- Extensive experience in cross-functional communication and cooperation
+- Database management and data visualization
+- Experimentation design and interpretation
+- Machine learning: Supervised (Regression, Classification) | Unsupervised(Clustering)
 
  Love to get connected through email or LinkedIn!
