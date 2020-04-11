@@ -44,20 +44,14 @@
     {
         "role":"Business Analyst",
         "company":"Jiahui Health",
-        "summary":["Collaborated with Business Intelligence and Engineering teams to build data pipelines, five dashboards and 30 reports, in support of reporting and analytics needs of finance, operation, marketing and BD teams",
-        "Performed descriptive analysis on revenue metrics with Oracle SQL to aid in five-year strategic planning",
-      "Forecasted consumable demand and automated procurement requests, improved inventory turnover by 17%",
-    "Managed a project team of six consultants and four developers. Established central customer database, integrated with customer engagement channels (SMS, email), facilitating customer acquisition and retention",
-"Clustered customers for targeted email campaign, using K-means method in R with patient demographics and visit histories. Designed A/B testing and verified an 80% boost in email click-through rates"
-        ],
-        "range":"Jul. 2016 – Aug. 2018",
-        "description":"Cooperated with external consulting team to implement integrated enterprise applications, and supported business operation with data analysis at the largest foreign-invested hospital in Shanghai, with a total investment of $500M",
+        "range":"Jun. 2016 – Aug. 2018",
+        "description":"The largest foreign-invested hospital in Shanghai, collaborating with MGH (Massachusetts General Hospital, Boston) to build an international- standard healthcare network. I cooperated with consulting team to implement integrated enterprise applications (ERP, CRM) and supported business operation with data analysis.",
         "location":"Shanghai, China"
     },
     {
         "role":"Oracle Financial Consultant",
         "company":"HAND Enterprise Solutions LTD.",
-        "description":["HAND is the largest IT consulting firm in China, providing clients with one-stop IT solution. I worked with clients to streamline financial processes with ERP and BI solutions."],
+        "description":"HAND is the largest IT consulting firm in China, providing clients with one-stop IT solution. I worked with clients to streamline financial processes with ERP and BI solutions.",
         "range":"Jul. 2014 – May. 2016",
         "location":"Shanghai, China"
     }
